@@ -36,27 +36,25 @@ Scikit-learn
 
 
 
-🧠 How It Works
-User enters symptoms in the web interface
-Symptoms are converted into a numerical vector
-The trained ML model predicts the disease
-Result is displayed instantly
-Prediction is stored in user history
-📊 Machine Learning Model
-Algorithm: Support Vector Machine (SVM)
-Data preprocessing:
-Label Encoding
-Feature Vectorization
-Input: Symptoms
-Output: Predicted Disease
-🔐 Authentication Features
-User Signup
-Login/Logout
-Password hashing for security
-User-specific prediction history
-📸 Screenshots (Optional)
+🧠 How It Works<br>
+User enters symptoms in the web interface<br>
+Symptoms are converted into a numerical vector<br>
+The trained ML model predicts the disease<br>
+Result is displayed instantly<br>
+Prediction is stored in user history<br>
+📊 Machine Learning Model<br>
+Algorithm: Support Vector Machine (SVM)<br>
+Data preprocessing:<br>
+Label Encoding<br>
+Feature Vectorization<br>
+Input: Symptoms<br>
+Output: Predicted Disease<br>
+🔐 Authentication Features<br>
+User Signup<br>
+Login/Logout<br>
+Password hashing for security<br>
+User-specific prediction history<br>
 
-Add screenshots of your UI here
 
 📈 Future Improvements
 Add more diseases and datasets
